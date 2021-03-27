@@ -1,0 +1,7 @@
+{
+  "name": "smilesDreamWish",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
